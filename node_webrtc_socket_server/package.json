@@ -1,0 +1,17 @@
+{
+  "name": "node_webrtc_socket_server",
+  "version": "1.0.0",
+  "description": "노드 webrtc 소켓서버 샘플",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vituscokr@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "ip": "^1.1.8",
+    "socket.io": "^4.7.2"
+  }
+}
